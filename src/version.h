@@ -15,21 +15,19 @@
 // Please FILL UP the content here before developing your plugin, and DO NOT modify any code
 // outside this area.
 
-static_assert(false, "Please modify your plugin information below and delete this line!");
-
 // The basic descriptions of your plugin
 // Note that the the plugin name CAN ONLY CONTAIN Enlish alphabet, digit, dash(-) and
 // underscore(_). 
-#define PLUGIN_NAME "HelloWorldPrinter"
+#define PLUGIN_NAME "OperationAgent"
 // Describe what your plugin does
 // We recommend you start the introduction with a third-person singular verb.
-#define PLUGIN_INTRODUCTION "Prints \"Hello, World!\" in the console."
-#define PLUGIN_AUTHOR "Me"
+#define PLUGIN_INTRODUCTION "A LiteLoaderBDS plugin to help players perform actions in place of other entities"
+#define PLUGIN_AUTHOR "xiaoqch"
 
 // The version of your plugin. If you do not know how to set it, please refer
 // to https://semver.org/ .
-#define PLUGIN_VERSION_MAJOR 0
-#define PLUGIN_VERSION_MINOR 1
+#define PLUGIN_VERSION_MAJOR 1
+#define PLUGIN_VERSION_MINOR 3
 #define PLUGIN_VERSION_REVISION 0
 #define PLUGIN_VERSION_BUILD 0
 #define PLUGIN_VERSION_ACTIONS 0
