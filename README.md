@@ -1,8 +1,8 @@
 # OperationAgent
 
-> **原作者：[xiaoqch]([xiaoqch (xiaoqch) (github.com)](https://github.com/xiaoqch))**
+> **原作者：[xiaoqch](https://github.com/xiaoqch)**
 >
-> **原仓库：[LL_Plugins/OperationAgent at main · xiaoqch/LL_Plugins (github.com)](https://github.com/xiaoqch/LL_Plugins/tree/main/OperationAgent)**
+> **原仓库：[LL_Plugins/OperationAgent at main · xiaoqch/LL_Plugins](https://github.com/xiaoqch/LL_Plugins/tree/main/OperationAgent)**
 >
 > **LiteLDev 代为维护并适配新版**
 
